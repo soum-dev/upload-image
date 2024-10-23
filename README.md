@@ -113,4 +113,4 @@ Mouhamed Soumare - [@soum-dev](https://github.com/soum-dev)
 
 ## 💬 Support
 
-For support, email fake@example.com or open an issue in the repository.
+For support, email mouhamedsoumare70@example.com or open an issue in the repository.
